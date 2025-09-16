@@ -1,9 +1,4 @@
-let age = 20;
-
-if (age < 18) {
- console.log("vous etes mineur.");   
-}else if (age === 18){
- console.log("vous venez d'atteindre la majarote !");   
-} else {
- console.log("vous etes majeur.");   
-}
+let nombre1 = 10;
+let nombre2 = 5;
+let somme = nombre1 + nombre2;
+console.log("La somme est : " + somme);
